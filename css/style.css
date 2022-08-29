@@ -191,7 +191,7 @@ button:focus, button:hover{
        height: auto;
        flex-direction: column;
        text-align:left;
-       background-color: rgb(76, 76, 146);
+       
     }
        
     .container > .productImage{
