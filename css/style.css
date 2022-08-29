@@ -57,7 +57,7 @@ body{
     /* background-color: var(--NeturalLightColor); */
     background-color: rgb(137, 137, 224);
     color: var(--NeturalLightDark);
-    border-radius: 10px;
+    border-radius: 7.5px;
     display: flex;
     overflow: hidden;
 }
@@ -67,8 +67,7 @@ body{
     
 }
 
-.container > .productDetails{
-    
+/* .container > .productDetails{   
     text-align: left;
     padding: 0 20px; 
 }
@@ -92,9 +91,9 @@ body{
 .productDetails> section > .productPrice > .current{
     font-family: var(--FFF);
     color: var(--PrimaryDarkColor);
-}
+} */
 
-button{
+/* button{
     font-family: var(--FFM);
     font-weight: 700;
     font-size: 0.95rem;
@@ -114,7 +113,7 @@ button > img{
 
 button:focus, button:hover{
     background-color: hsl(158, 36%, 20%);
-}
+} */
 
 @media screen and (min-width : 1440px){
 
@@ -124,10 +123,10 @@ button:focus, button:hover{
     }
 
     .container > .productImage{   
-        width: 50rem;
+        width: 44rem;
         height: 24.8rem;
         background-color: aqua;
-        background-image: url(../images/image-product-desktop.jpg);      
+        background-image: url(../images/image-product-desktop.jpg);     
     }
 
     .container > .productDetails{
@@ -138,7 +137,7 @@ button:focus, button:hover{
         margin: 0 20px 0;
     }
 
-    .productDetails > section > p{
+    /* .productDetails > section > p{
         padding-top: 2rem; 
         font-size: 17px;
         font-weight: 500;  
@@ -167,7 +166,7 @@ button:focus, button:hover{
 
     .productDetails> section > .productPrice > .current{
         font-size: 2.25rem;   
-    }
+    } */
 
     /* button{
         margin: 12% 0;
@@ -235,4 +234,4 @@ button:focus, button:hover{
        padding: 5% 10%;
     } */
 
-}
+/* } */
