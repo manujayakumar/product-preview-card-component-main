@@ -169,7 +169,7 @@ button:focus, button:hover{
         font-size: 2.25rem;   
     }
 
-    button{
+    /* button{
         margin: 12% 0;
         margin-left: 5%;
         width: 80%;
@@ -181,10 +181,10 @@ button:focus, button:hover{
     }
     button:focus, button:hover{
         background-color: hsl(158, 36%, 20%);
-    }
+    } */
 }
 
-@media screen and (max-width : 1440px){
+/* @media screen and (max-width : 1440px){
    
     .container{
        width: 340px;
@@ -233,6 +233,6 @@ button:focus, button:hover{
        width: 90%;
        height: auto;
        padding: 5% 10%;
-    }
+    } */
 
 }
