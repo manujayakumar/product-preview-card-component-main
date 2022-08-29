@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+
+/*||||||||||| general style |||||||||||||||*/
+
+:root{
+
+    /*||||||||||| Primary-Color |||||||||||||*/
+
+    --PrimaryDarkColor : hsl(158, 36%, 37%);   /* - Dark cyan */
+    --PrimaryLightColor : hsl(30, 38%, 92%);   /* - Cream */
+
+    /*||||||||||||| Netural-Color |||||||||||||*/
+
+    --NeturalDarkColor: hsl(212, 21%, 14%);   /* - Very dark blue */
+    --NeturalLightDark: hsl(228, 12%, 48%);   /* - Dark grayish blue */
+    --NeturalLightColor: hsl(0, 0%, 100%);    /* - White */
+
+    /*||||||||||||| Typographu ||||||||||||||||*/
+
+    --FontSize: 14px;
+    --FFM: "Montserrat", san-serif;  /* Font-Family: Montserrat */
+    --FFF: "Fraunces", san-serif;    /* Font-Family: Fraunces */
+}
+
+
+/*||||||||| reset ||||||||||||||*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ///////////// design the body /////////////////////// */
+
+.attribution {
+    position: absolute;
+    font-size: 14px;
+    text-align: center;
+    bottom: 1%;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+body{
+    height: 100vh;
+    font-size: var(--FontSize);
+    font-family: var(--FFM);
+    background-color: var(--PrimaryLightColor);
+    display: grid;
+    place-items: center; 
+}
+.container{
+    background-color: var(--NeturalLightColor);
+    color: var(--NeturalLightDark);
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
+}
