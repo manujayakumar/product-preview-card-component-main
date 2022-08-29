@@ -146,13 +146,13 @@ button:focus, button:hover{
         
     }
 
-    .productDetails > section > p > .creator{
-        white-space: nowrap;
-    }
-
     .productDetails > section > .productTitle{
         letter-spacing: 0.2rem; 
     }
+    .productDetails > section > p > .creator{
+        white-space: nowrap;
+    }
+    
 
     .productDetails > section > h1{
         width: 12rem;
@@ -184,48 +184,44 @@ button:focus, button:hover{
     } 
 }
 
-/* @media screen and (max-width : 1440px){
+ @media screen and (max-width : 1440px){
    
     .container{
-       width: 340px;
+       width: 255px;
        height: auto;
        flex-direction: column;
        text-align:left;
+       background-color: rgb(76, 76, 146);
     }
-   
-    .container > .productImage{width: 375px;
-        height: 240px;
+       
+    .container > .productImage{
+        width: auto;
+        height: 180px;
         background-image: url('../images/image-product-mobile.jpg');
     }
    
     .productDetails > section > p{
-       padding-top: 1rem; 
-       font-size: 14px;
-       font-weight: 500;  
-       line-height: 1.4rem; 
+       padding-top: 0.8rem; 
+       font-size: 10.7px;  
+       line-height: 1.05rem; 
     }
          
-   
+ 
     .productDetails > section > .productTitle{ 
         letter-spacing: 0.25rem;
     }
-   
+     
     .productDetails > section > h1{
-        font-size: 2rem;
-        line-height: 100%;
-    }
-      
-    .productDetails> section > .productPrice{
-        margin-top: 10px ;
+        font-size: 1.45rem;  
     }
    
     .productDetails> section > .productPrice > .previous{
         text-decoration: line-through;
-        padding-left: 1rem;
+        padding-left: 0.85rem;
     }
  
     .productDetails> section > .productPrice > .current{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     button{
@@ -233,6 +229,5 @@ button:focus, button:hover{
        width: 90%;
        height: auto;
        padding: 5% 10%;
-    } */
-
-/* } */
+    } 
+ }
