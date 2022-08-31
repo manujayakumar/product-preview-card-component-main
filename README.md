@@ -6,7 +6,7 @@
   - [Screenshot](https://github.com/manujayakumar/product-preview-card-component-main)
   - [Links](https://github.com/manujayakumar/product-preview-card-component-main)
 - My process
-  - [Bulid with](https://github.com/manujayakumar/product-preview-card-component-main/READ.md/###Bulidwith)
+  - [Bulid with](https://github.com/manujayakumar/product-preview-card-component-main/READ.md/###-Bulid-with)
   - [What I learn]()
   - [Useful Resources]()
 - [Author]()
