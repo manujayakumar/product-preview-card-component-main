@@ -3,13 +3,13 @@
 ## Table of contents
 - [Overview](https://github.com/manujayakumar/product-preview-card-component-main)
   - [The challange](https://github.com/manujayakumar/product-preview-card-component-main)
-  - [Screenshot](https://github.com/manujayakumar/product-preview-card-component-main)
-  - [Links](https://github.com/manujayakumar/product-preview-card-component-main)
+  - [Screenshot](#Screenshot)
+  - [Links](#Links)
 - My process
   - [Bulid with](https://github.com/manujayakumar/product-preview-card-component-main/READ.md/###-Bulid-with)
   - [What I learn]()
   - [Useful Resources]()
-- [Author]()
+- [Author](#Author)
 ### ScreenShot
 Desktop view:
 
