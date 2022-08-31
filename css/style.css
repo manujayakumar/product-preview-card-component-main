@@ -34,7 +34,7 @@
 
 /* ///////////// design the body /////////////////////// */
 
-/* .attribution {
+.attribution {
     position: absolute;
     font-size: 14px;
     text-align: center;
@@ -42,7 +42,7 @@
   }
   .attribution a {
     color: hsl(228, 45%, 44%);
-  } */
+  }
 
 body{
     width: 100%;
