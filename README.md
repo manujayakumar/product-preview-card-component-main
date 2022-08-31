@@ -11,6 +11,13 @@
   - [Useful Resources]()
 - [Author]()
 ### ScreenShot
+Desktop view:
+
+![](https://github.com/manujayakumar/product-preview-card-component-main/blob/main/Screenshot/Screenshot-desktop.PNG)
+
+Mobile view:
+
+![](https://github.com/manujayakumar/product-preview-card-component-main/blob/main/Screenshot/Screenshot-mobile.PNG)
 ### Links
 - Solution URL: [Frontend Mentor Solution]()
 - Live Site URL: [Live Site at Vercel]()
