@@ -6,9 +6,9 @@
   - [Screenshot](#Screenshot)
   - [Links](#Links)
 - My process
-  - [Bulid with](https://github.com/manujayakumar/product-preview-card-component-main/READ.md/###-Bulid-with)
-  - [What I learn]()
-  - [Useful Resources]()
+  - [Bulid with](#Bulid-with)
+  - [What I learn](#What-I-Learn)
+  - [Useful Resources](#Useful-Resources)
 - [Author](#Author)
 ### ScreenShot
 Desktop view:
