@@ -19,7 +19,7 @@ Mobile view:
 
 ![](https://github.com/manujayakumar/product-preview-card-component-main/blob/main/Screenshot/Screenshot-mobile.PNG)
 ### Links
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-vanilla-css-pI03QTPeg2)
 - Live Site URL: [Live Site at Vercel](https://product-preview-card-component-main-beryl.vercel.app/)
 ## My process
 ### Built with
